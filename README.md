@@ -14,7 +14,7 @@
               <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=DanielOliveira-07&count_private=true&hide_border=true" />
           </td>
           <td>
-              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielOliveira-07&layout=compact&hide_border=true" alt="Daniel Oliveira" />                   </td>
+              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielOliveira-07&layout=compact&hide_border=true" alt="DanielOliveira-07" />                   </td>
       </tr>  
     </table>
 </center>
