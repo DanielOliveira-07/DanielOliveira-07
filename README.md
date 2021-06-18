@@ -26,7 +26,7 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/daniel-oliveira-369508166/" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1623592428~hmac=7e7c39c4725f3623dc4547d71ac541d8" alt="brenont" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daniel-oliveira-369508166/" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1623592428~hmac=7e7c39c4725f3623dc4547d71ac541d8" alt="DanielOliveira-07" height="30" width="40" /></a>
 
 </p>
 
